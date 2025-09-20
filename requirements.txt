@@ -5,5 +5,7 @@ langchain
 langchain-community
 langchain-groq
 faiss-cpu
-python-multipart   # để upload file
+python-multipart
 sentence-transformers
+torch
+transformers
