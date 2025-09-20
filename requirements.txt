@@ -1,7 +1,8 @@
-streamlit
+fastapi
+uvicorn
+PyPDF2
+langchain
 langchain-community
-langchain-google-genai
 langchain-groq
 faiss-cpu
-pypdf
-PyPDF2
+python-multipart   # để upload file
