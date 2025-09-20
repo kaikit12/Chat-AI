@@ -6,3 +6,4 @@ langchain-community
 langchain-groq
 faiss-cpu
 python-multipart   # để upload file
+sentence-transformers
